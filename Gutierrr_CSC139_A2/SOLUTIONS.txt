@@ -1,0 +1,48 @@
+Ricky Gutierrez
+CSC 139, ASSIGNMENT 2
+March 16th, 2018
+
+a.out 10 1 1
+producer produced 1681692777
+consumer consumed 1681692777
+Exit the program
+
+a.out 10 10 10
+producer produced 35005211
+consumer consumed 35005211
+producer produced 1726956429
+consumer consumed 1726956429
+producer produced 278722862
+consumer consumed 278722862
+producer produced 468703135
+producer produced 1801979802
+producer produced 635723058
+producer produced 1125898167
+consumer consumed 1125898167
+Exit the program
+
+a.out 30 10 10
+producer produced 35005211
+consumer consumed 35005211
+producer produced 1726956429
+consumer consumed 1726956429
+producer produced 278722862
+consumer consumed 278722862
+producer produced 468703135
+producer produced 1801979802
+producer produced 635723058
+producer produced 1125898167
+consumer consumed 1125898167
+producer produced 628175011
+consumer consumed 628175011
+consumer consumed 635723058
+consumer consumed 1801979802
+consumer consumed 468703135
+producer produced 608413784
+producer produced 1734575198
+consumer consumed 1734575198
+consumer consumed 608413784
+producer produced 1129566413
+consumer consumed 1129566413
+producer produced 1424268980
+Exit the program
